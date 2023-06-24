@@ -8,5 +8,5 @@ Laporan - PDF - masing2
 Implenetasi OOP - boleh sama
 
 1. Class & Object
-   part code example
+   ![Img 1](Dokumentasi/Class.PNG)
 2. encapsulation
