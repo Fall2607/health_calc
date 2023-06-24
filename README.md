@@ -13,7 +13,10 @@ Implenetasi OOP - boleh sama
 
 ![Img 1](Dokumentasi/Class.PNG)
 
-- Implementasi : instansiasi object, kedalam variable hitung yang dimana hal ini memungkinkan var hitung dapat mengakses object terhadap class mathDailyCalorie, mathCalorieBurned, mathBMI
+- Implementasi : instansiasi object, kedalam variable hitung yang dimana hal ini memungkinkan var hitung dapat mengakses object yang terdapat dalam class :
+  - mathDailyCalorie
+  - mathCalorieBurned
+  - mathBMI
 
 ![Img 2](Dokumentasi/Object.PNG)
 
