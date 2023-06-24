@@ -9,7 +9,7 @@ Implenetasi OOP - boleh sama
 
 1. Class & Object
 
-- Implentasi :
+- Implentasi : Penciptaan class hitung
   ![Img 1](Dokumentasi/Class.PNG)
 
 2. encapsulation
