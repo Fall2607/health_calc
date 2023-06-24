@@ -1,0 +1,14 @@
+CRITICAL - 2023-05-27 09:34:55 --> Invalid file: "templates/header    .php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/header    .php')
+ 2 SYSTEMPATH\View\View.php(431): CodeIgniter\View\View->render('templates/header    ', null, true)
+ 3 APPPATH\Views\templates\index.php(48): CodeIgniter\View\View->include('templates/header    ')
+ 4 SYSTEMPATH\View\View.php(213): include('D:\\xampp\\htdocs\\Fyber\\app\\Views\\templates\\index.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('templates/index', [], true)
+ 7 APPPATH\Controllers\Main.php(11): view('templates/index')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Main->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\Fyber\\public\\index.php')
