@@ -8,5 +8,8 @@ Laporan - PDF - masing2
 Implenetasi OOP - boleh sama
 
 1. Class & Object
-   ![Img 1](Dokumentasi/Class.PNG)
+
+- Implentasi :
+  ![Img 1](Dokumentasi/Class.PNG)
+
 2. encapsulation
