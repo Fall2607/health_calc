@@ -13,4 +13,8 @@ Implenetasi OOP - boleh sama
 
 ![Img 1](Dokumentasi/Class.PNG)
 
+- Implementasi : instansiasi object
+
+![Img 2](Dokumentasi/Object.PNG)
+
 2. encapsulation
