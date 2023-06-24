@@ -9,9 +9,10 @@ Implenetasi OOP - boleh sama
 
 1. Class & Object
 
-   - Implentasi : Penciptaan class hitung
+- Implentasi : Penciptaan class hitung
 
-![Img 1](Dokumentasi/Class.PNG)
+  - Gambar
+    ![Img 1](Dokumentasi/Class.PNG)
 
 - Implementasi : instansiasi object, kedalam variable hitung yang dimana hal ini memungkinkan var hitung dapat mengakses object yang terdapat dalam class :
 
@@ -19,6 +20,8 @@ Implenetasi OOP - boleh sama
   - mathCalorieBurned
   - mathBMI
 
-    - ![Img 2](Dokumentasi/Object.PNG)
+        - Gambar :
+
+        ![Img 2](Dokumentasi/Object.PNG)
 
 2. encapsulation
