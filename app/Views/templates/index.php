@@ -70,7 +70,7 @@
     <script src="<?= base_url('js/') ?>jquery.fancybox.min.js"></script>
     <script src="<?= base_url('js/') ?>jquery.sticky.js"></script>
     <script src="<?= base_url('js/') ?>jquery.mb.YTPlayer.min.js"></script>
-    <script src="<?= base_url('js/') ?>jsnya.js"></script>
+    <script src="<?= base_url('js/') ?>health_calculator.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
 

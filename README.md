@@ -2,7 +2,7 @@ Nilai Matkul
 UAS
 
 1. implementasai student group (50%)
-2. INterview mengenai OOP di projectnya
+2. Interview mengenai OOP di projectnya
 
 Laporan - PDF - masing2
 Implenetasi OOP - boleh sama
