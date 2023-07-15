@@ -21,4 +21,4 @@ Implenetasi OOP - boleh sama
 
     ![Img 2](Dokumentasi/Object.PNG)
 
-2. encapsulation
+2. encapsulation hehe
